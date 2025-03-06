@@ -1,4 +1,4 @@
 {
-    "ignore":["node_modules/bcrypt/examples/**"]
+    "ignore":["node_modules/bcrypt/examples/async_compare.js"]
   }
   
