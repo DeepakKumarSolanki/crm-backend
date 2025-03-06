@@ -1,5 +1,6 @@
+
+
 {
-  "ignore": [
-    "node_modules"
-  ]
+  "ignore": ["node_modules/@mongodb-js/saslprep/dist/code-points-data-browser.js"],
+  "compact": false
 }
