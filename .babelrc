@@ -1,6 +1,8 @@
-
-
 {
-  "ignore": ["node_modules/@mongodb-js/saslprep/dist/code-points-data-browser.js"],
+  "ignore": [
+    "node_modules/@mongodb-js/saslprep/**",
+    "node_modules/bson/**",
+    "node_modules/chokidar-2/**"
+  ],
   "compact": false
 }
